@@ -14,7 +14,7 @@ I had used mlab for database service, used MongoDB(NoSQL). To implement the same
 
 Nodemon is also used, so that you dont have to restart the server everytime you make changes. 
 
-To run the server, go to working directory in terminal and run
+To run the server, go to working directory in terminal and run<br>
 $ nodemon app.js
 
 Postman has been used for testing purpose.
